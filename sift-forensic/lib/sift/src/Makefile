@@ -3,8 +3,10 @@ CFLAGS	+=
 BIN_DIR = ../bin
 INC_DIR	= ../include
 LIB_DIR	= ../lib
-INCL	= -I$(INC_DIR) `pkg-config --cflags opencv gtk-engines-2`
-LIBS	= -L$(LIB_DIR) -lfeat `pkg-config --libs opencv gtk-engines-2`
+INCL	= -I$(INC_DIR) `pkg-config --cflags --libs opencv` 
+#gtk-engines-2`
+LIBS	= -L$(LIB_DIR) -lfeat `pkg-config --libs opencv`
+#gtk-engines-2`
 OBJ	= imgfeatures.o utils.o sift.o kdtree.o minpq.o xform.o
 BIN     = siftfeat match dspfeat
 
