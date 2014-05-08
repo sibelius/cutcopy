@@ -26,59 +26,52 @@
     \begin{frame}
         \frametitle{Introduction}
         \begin{itemize}[<+->]
-            \item Social Media (Twitter, Facebook, Youtube, and the blogosphere)
-            \includegraphics[width=10cm]{social_media}
+            \item Copy-move attacks
+            \includegraphics[width=10cm]{tamp}
         \end{itemize}
     \end{frame}
-
-%Precision: 0.98 (+/- 0.01)
-%Recall: 0.98 (+/- 0.01)
-%F1 Score: 0.98 (+/- 0.00)
 
     \begin{frame}
         \frametitle{Motivation}
         \begin{itemize}
-            \item Can we extract crime information from the social media?
+            \item All those feature methods, what is the best?
+            	\begin{itemize}
+                    \item What is the best KeyPoint detector?
+                    \item What is the best KeyPoint descriptor?
+                    \includegraphics[width=8cm]{detected}
+                \end{itemize}
         \end{itemize}
     \end{frame}
 
     \begin{frame}
-        \frametitle{Applications}
+        \frametitle{Methods}
         \begin{itemize} [<+->]
-            \item Crowdsourcing crime visualization
+            \item Source
                 \begin{itemize}
-                    \item Crime information from the social media
-                    \item Crime information directly from the users
+                    \item Python
+                    \item Numpy
+                    \item Matlab
+                    \item Opencv
                 \end{itemize}
-            \item Safety Routing
+            \item Feature Detector
                 \begin{itemize}
-                    \item Based on crime information provide a safety routing for one place to another
+                    \item SIFT, SURF, STAR, ORB
+                    \item BRIEF, BRISK, FREAK
                 \end{itemize}
-            \item Crime Alert
+             \item Database
                 \begin{itemize}
-                    \item Panic Button alerts a new crime based on GPS information
-                    \item A espace safety route is provided to the user
-                    \item The police can be notified
+                    \item MICC-F220
                 \end{itemize}
+
         \end{itemize}
     \end{frame}
 
     \begin{frame}
-        \frametitle{Social Media Crime Information Extraction}
-        \begin{columns}[c]
-            \column{3in}
-            \begin{enumerate} [<+->]
-                \item Crawl tweets from Twitter
-                \item Classify tweets in related to crime or not
-                \item Determine the type of crime
-                \item Extract Location of tweet
-            \end{enumerate}
-        
-            \column{1in}
-            \includegraphics[width=1in]{twitter}
-        \end{columns}
-        % More content goes here
-        %\includegraphics[width=12cm]{application}
+        \frametitle{Process}
+        \begin{itemize}[<+->]
+            \item Using a combination of each keypoint detector and descriptor
+            \includegraphics[width=10cm]{process}
+        \end{itemize}
     \end{frame}
 
     \begin{frame}
