@@ -1,220 +1,220 @@
-CRW_4853tamp1.jpg              1
-CRW_4853tamp131.jpg            1
-CRW_4853tamp132.jpg            1
-CRW_4853tamp133.jpg            1
-CRW_4853tamp134.jpg            1
-CRW_4853tamp176.jpg            1
-CRW_4853tamp237.jpg            1
-CRW_4853tamp25.jpg             1
-CRW_4853tamp27.jpg             1
-CRW_4853tamp37.jpg             1
-CRW_4901_JFRtamp1.jpg          1
-CRW_4901_JFRtamp131.jpg        1
-CRW_4901_JFRtamp132.jpg        1
-CRW_4901_JFRtamp133.jpg        1
-CRW_4901_JFRtamp134.jpg        1
-CRW_4901_JFRtamp176.jpg        1
-CRW_4901_JFRtamp237.jpg        1
-CRW_4901_JFRtamp25.jpg         1
-CRW_4901_JFRtamp27.jpg         1
-CRW_4901_JFRtamp37.jpg         1
-DSC_0535tamp1.jpg              1
-DSC_0535tamp131.jpg            1
-DSC_0535tamp132.jpg            1
-DSC_0535tamp133.jpg            1
-DSC_0535tamp134.jpg            1
-DSC_0535tamp176.jpg            1
-DSC_0535tamp237.jpg            1
-DSC_0535tamp25.jpg             1
-DSC_0535tamp27.jpg             1
-DSC_0535tamp37.jpg             1
-DSC_0812tamp1.jpg              1
-DSC_0812tamp131.jpg            1
-DSC_0812tamp132.jpg            1
-DSC_0812tamp133.jpg            1
-DSC_0812tamp134.jpg            1
-DSC_0812tamp176.jpg            1
-DSC_0812tamp237.jpg            1
-DSC_0812tamp25.jpg             1
-DSC_0812tamp27.jpg             1
-DSC_0812tamp37.jpg             1
-DSC_1535tamp1.jpg              1
-DSC_1535tamp131.jpg            1
-DSC_1535tamp132.jpg            1
-DSC_1535tamp133.jpg            1
-DSC_1535tamp134.jpg            1
-DSC_1535tamp176.jpg            1
-DSC_1535tamp237.jpg            1
-DSC_1535tamp25.jpg             1
-DSC_1535tamp27.jpg             1
-DSC_1535tamp37.jpg             1
-DSC_1540tamp1.jpg              1
-DSC_1540tamp131.jpg            1
-DSC_1540tamp132.jpg            1
-DSC_1540tamp133.jpg            1
-DSC_1540tamp134.jpg            1
-DSC_1540tamp176.jpg            1
-DSC_1540tamp237.jpg            1
-DSC_1540tamp25.jpg             1
-DSC_1540tamp27.jpg             1
-DSC_1540tamp37.jpg             1
-DSC_1568tamp1.jpg              1
-DSC_1568tamp131.jpg            1
-DSC_1568tamp132.jpg            1
-DSC_1568tamp133.jpg            1
-DSC_1568tamp134.jpg            1
-DSC_1568tamp176.jpg            1
-DSC_1568tamp237.jpg            1
-DSC_1568tamp25.jpg             1
-DSC_1568tamp27.jpg             1
-DSC_1568tamp37.jpg             1
-DSCF8tamp1.jpg                 1
-DSCF8tamp131.jpg               1
-DSCF8tamp132.jpg               1
-DSCF8tamp133.jpg               1
-DSCF8tamp134.jpg               1
-DSCF8tamp176.jpg               1
-DSCF8tamp237.jpg               1
-DSCF8tamp25.jpg                1
-DSCF8tamp27.jpg                1
-DSCF8tamp37.jpg                1
-DSCN41tamp1.jpg                1
-DSCN41tamp131.jpg              1
-DSCN41tamp132.jpg              1
-DSCN41tamp133.jpg              1
-DSCN41tamp134.jpg              1
-DSCN41tamp176.jpg              1
-DSCN41tamp237.jpg              1
-DSCN41tamp25.jpg               1
-DSCN41tamp27.jpg               1
-DSCN41tamp37.jpg               1
-DSCN45tamp1.jpg                1
-DSCN45tamp131.jpg              1
-DSCN45tamp132.jpg              1
-DSCN45tamp133.jpg              1
-DSCN45tamp134.jpg              1
-DSCN45tamp176.jpg              1
-DSCN45tamp237.jpg              1
-DSCN45tamp25.jpg               1
-DSCN45tamp27.jpg               1
-DSCN45tamp37.jpg               1
-sony_61tamp1.jpg             1
-sony_61tamp131.jpg           1
-sony_61tamp132.jpg           1
-sony_61tamp133.jpg           1
-sony_61tamp134.jpg           1
-sony_61tamp176.jpg           1
-sony_61tamp237.jpg           1
-sony_61tamp25.jpg            1
-sony_61tamp27.jpg            1
-sony_61tamp37.jpg            1
-CRW_4809_scale.jpg             0
-CRW_4810_scale.jpg             0
-CRW_4814_scale.jpg             0
-CRW_4815_scale.jpg             0
-CRW_4817_scale.jpg             0
-CRW_4818_scale.jpg             0
-CRW_4820_scale.jpg             0
-CRW_4821_scale.jpg             0
-CRW_4822_scale.jpg             0
-CRW_4823_scale.jpg             0
-CRW_4825_scale.jpg             0
-CRW_4827_scale.jpg             0
-CRW_4829_scale.jpg             0
-CRW_4830_scale.jpg             0
-CRW_4831_scale.jpg             0
-CRW_4833_scale.jpg             0
-CRW_4834_scale.jpg             0
-CRW_4835_scale.jpg             0
-CRW_4836_scale.jpg             0
-CRW_4838_scale.jpg             0
-CRW_4839_scale.jpg             0
-CRW_4840_scale.jpg             0
-CRW_4841_scale.jpg             0
-CRW_4842_scale.jpg             0
-CRW_4848_scale.jpg             0
-CRW_4852_scale.jpg             0
-CRW_4853_scale.jpg             0
-CRW_4901_JFR_scale.jpg         0
-DSC_0535_scale.jpg             0
-DSC_0812_scale.jpg             0
-DSC_1535_scale.jpg             0
-DSC_1538_scale.jpg             0
-DSC_1539_scale.jpg             0
-DSC_1540_scale.jpg             0
-DSC_1542_scale.jpg             0
-DSC_1546_scale.jpg             0
-DSC_1549_scale.jpg             0
-DSC_1550_scale.jpg             0
-DSC_1554_scale.jpg             0
-DSC_1557_scale.jpg             0
-DSC_1561_scale.jpg             0
-DSC_1567_scale.jpg             0
-DSC_1568_scale.jpg             0
-DSC_1570_scale.jpg             0
-DSC_1571_scale.jpg             0
-DSC_1572_scale.jpg             0
-DSC_1573_scale.jpg             0
-DSC_1575_scale.jpg             0
-DSC_1576_scale.jpg             0
-DSC_1580_scale.jpg             0
-DSC_1581_scale.jpg             0
-DSC_1595_scale.jpg             0
-DSCF10_scale.jpg               0
-DSCF11_scale.jpg               0
-DSCF12_scale.jpg               0
-DSCF13_scale.jpg               0
-DSCF14_scale.jpg               0
-DSCF15_scale.jpg               0
-DSCF16_scale.jpg               0
-DSCF1853_scale.jpg             0
-DSCF18_scale.jpg               0
-DSCF1_scale.jpg                0
-DSCF2059_scale.jpg             0
-DSCF2_scale.jpg                0
-DSCF3_scale.jpg                0
-DSCF4_scale.jpg                0
-DSCF5_scale.jpg                0
-DSCF6_scale.jpg                0
-DSCF7_scale.jpg                0
-DSCF8_scale.jpg                0
-DSCF9_scale.jpg                0
-DSCN2320_scale.jpg             0
-DSCN2321_scale.jpg             0
-DSCN2322_scale.jpg             0
-DSCN2323_scale.jpg             0
-DSCN2324_scale.jpg             0
-DSCN2325_scale.jpg             0
-DSCN2326_scale.jpg             0
-DSCN2327_scale.jpg             0
-DSCN2328_scale.jpg             0
-DSCN2329_scale.jpg             0
-DSCN41_scale.jpg               0
-DSCN43_scale.jpg               0
-DSCN44_scale.jpg               0
-DSCN45_scale.jpg               0
-DSCN46_scale.jpg               0
-DSCN47_scale.jpg               0
-DSCN48_scale.jpg               0
-DSCN49_scale.jpg               0
-DSCN50_scale.jpg               0
-IMG_32_scale.jpg               0
-nikon_7_scale.jpg            0
-P1000213_scale.jpg             0
-P1000231_scale.jpg             0
-P1000293_scale.jpg             0
-P1000318_scale.jpg             0
-P1000472_scale.jpg             0
-P1000528_scale.jpg             0
-P1000553_scale.jpg             0
-sony_61_scale.jpg            0
-sony_63_scale.jpg            0
-sony_64_scale.jpg            0
-sony_65_scale.jpg            0
-sony_66_scale.jpg            0
-sony_67_scale.jpg            0
-sony_68_scale.jpg            0
-sony_69_scale.jpg            0
-sony_70_scale.jpg            0
-sony_71_scale.jpg            0
-sony_72_scale.jpg            0
+CRW_4853tamp1.jpg,1
+CRW_4853tamp131.jpg,1
+CRW_4853tamp132.jpg,1
+CRW_4853tamp133.jpg,1
+CRW_4853tamp134.jpg,1
+CRW_4853tamp176.jpg,1
+CRW_4853tamp237.jpg,1
+CRW_4853tamp25.jpg,1
+CRW_4853tamp27.jpg,1
+CRW_4853tamp37.jpg,1
+CRW_4901_JFRtamp1.jpg,1
+CRW_4901_JFRtamp131.jpg,1
+CRW_4901_JFRtamp132.jpg,1
+CRW_4901_JFRtamp133.jpg,1
+CRW_4901_JFRtamp134.jpg,1
+CRW_4901_JFRtamp176.jpg,1
+CRW_4901_JFRtamp237.jpg,1
+CRW_4901_JFRtamp25.jpg,1
+CRW_4901_JFRtamp27.jpg,1
+CRW_4901_JFRtamp37.jpg,1
+DSC_0535tamp1.jpg,1
+DSC_0535tamp131.jpg,1
+DSC_0535tamp132.jpg,1
+DSC_0535tamp133.jpg,1
+DSC_0535tamp134.jpg,1
+DSC_0535tamp176.jpg,1
+DSC_0535tamp237.jpg,1
+DSC_0535tamp25.jpg,1
+DSC_0535tamp27.jpg,1
+DSC_0535tamp37.jpg,1
+DSC_0812tamp1.jpg,1
+DSC_0812tamp131.jpg,1
+DSC_0812tamp132.jpg,1
+DSC_0812tamp133.jpg,1
+DSC_0812tamp134.jpg,1
+DSC_0812tamp176.jpg,1
+DSC_0812tamp237.jpg,1
+DSC_0812tamp25.jpg,1
+DSC_0812tamp27.jpg,1
+DSC_0812tamp37.jpg,1
+DSC_1535tamp1.jpg,1
+DSC_1535tamp131.jpg,1
+DSC_1535tamp132.jpg,1
+DSC_1535tamp133.jpg,1
+DSC_1535tamp134.jpg,1
+DSC_1535tamp176.jpg,1
+DSC_1535tamp237.jpg,1
+DSC_1535tamp25.jpg,1
+DSC_1535tamp27.jpg,1
+DSC_1535tamp37.jpg,1
+DSC_1540tamp1.jpg,1
+DSC_1540tamp131.jpg,1
+DSC_1540tamp132.jpg,1
+DSC_1540tamp133.jpg,1
+DSC_1540tamp134.jpg,1
+DSC_1540tamp176.jpg,1
+DSC_1540tamp237.jpg,1
+DSC_1540tamp25.jpg,1
+DSC_1540tamp27.jpg,1
+DSC_1540tamp37.jpg,1
+DSC_1568tamp1.jpg,1
+DSC_1568tamp131.jpg,1
+DSC_1568tamp132.jpg,1
+DSC_1568tamp133.jpg,1
+DSC_1568tamp134.jpg,1
+DSC_1568tamp176.jpg,1
+DSC_1568tamp237.jpg,1
+DSC_1568tamp25.jpg,1
+DSC_1568tamp27.jpg,1
+DSC_1568tamp37.jpg,1
+DSCF8tamp1.jpg,1
+DSCF8tamp131.jpg,1
+DSCF8tamp132.jpg,1
+DSCF8tamp133.jpg,1
+DSCF8tamp134.jpg,1
+DSCF8tamp176.jpg,1
+DSCF8tamp237.jpg,1
+DSCF8tamp25.jpg,1
+DSCF8tamp27.jpg,1
+DSCF8tamp37.jpg,1
+DSCN41tamp1.jpg,1
+DSCN41tamp131.jpg,1
+DSCN41tamp132.jpg,1
+DSCN41tamp133.jpg,1
+DSCN41tamp134.jpg,1
+DSCN41tamp176.jpg,1
+DSCN41tamp237.jpg,1
+DSCN41tamp25.jpg,1
+DSCN41tamp27.jpg,1
+DSCN41tamp37.jpg,1
+DSCN45tamp1.jpg,1
+DSCN45tamp131.jpg,1
+DSCN45tamp132.jpg,1
+DSCN45tamp133.jpg,1
+DSCN45tamp134.jpg,1
+DSCN45tamp176.jpg,1
+DSCN45tamp237.jpg,1
+DSCN45tamp25.jpg,1
+DSCN45tamp27.jpg,1
+DSCN45tamp37.jpg,1
+sony_61tamp1.jpg,1
+sony_61tamp131.jpg,1
+sony_61tamp132.jpg,1
+sony_61tamp133.jpg,1
+sony_61tamp134.jpg,1
+sony_61tamp176.jpg,1
+sony_61tamp237.jpg,1
+sony_61tamp25.jpg,1
+sony_61tamp27.jpg,1
+sony_61tamp37.jpg,1
+CRW_4809_scale.jpg,0
+CRW_4810_scale.jpg,0
+CRW_4814_scale.jpg,0
+CRW_4815_scale.jpg,0
+CRW_4817_scale.jpg,0
+CRW_4818_scale.jpg,0
+CRW_4820_scale.jpg,0
+CRW_4821_scale.jpg,0
+CRW_4822_scale.jpg,0
+CRW_4823_scale.jpg,0
+CRW_4825_scale.jpg,0
+CRW_4827_scale.jpg,0
+CRW_4829_scale.jpg,0
+CRW_4830_scale.jpg,0
+CRW_4831_scale.jpg,0
+CRW_4833_scale.jpg,0
+CRW_4834_scale.jpg,0
+CRW_4835_scale.jpg,0
+CRW_4836_scale.jpg,0
+CRW_4838_scale.jpg,0
+CRW_4839_scale.jpg,0
+CRW_4840_scale.jpg,0
+CRW_4841_scale.jpg,0
+CRW_4842_scale.jpg,0
+CRW_4848_scale.jpg,0
+CRW_4852_scale.jpg,0
+CRW_4853_scale.jpg,0
+CRW_4901_JFR_scale.jpg,0
+DSC_0535_scale.jpg,0
+DSC_0812_scale.jpg,0
+DSC_1535_scale.jpg,0
+DSC_1538_scale.jpg,0
+DSC_1539_scale.jpg,0
+DSC_1540_scale.jpg,0
+DSC_1542_scale.jpg,0
+DSC_1546_scale.jpg,0
+DSC_1549_scale.jpg,0
+DSC_1550_scale.jpg,0
+DSC_1554_scale.jpg,0
+DSC_1557_scale.jpg,0
+DSC_1561_scale.jpg,0
+DSC_1567_scale.jpg,0
+DSC_1568_scale.jpg,0
+DSC_1570_scale.jpg,0
+DSC_1571_scale.jpg,0
+DSC_1572_scale.jpg,0
+DSC_1573_scale.jpg,0
+DSC_1575_scale.jpg,0
+DSC_1576_scale.jpg,0
+DSC_1580_scale.jpg,0
+DSC_1581_scale.jpg,0
+DSC_1595_scale.jpg,0
+DSCF10_scale.jpg,0
+DSCF11_scale.jpg,0
+DSCF12_scale.jpg,0
+DSCF13_scale.jpg,0
+DSCF14_scale.jpg,0
+DSCF15_scale.jpg,0
+DSCF16_scale.jpg,0
+DSCF1853_scale.jpg,0
+DSCF18_scale.jpg,0
+DSCF1_scale.jpg,0
+DSCF2059_scale.jpg,0
+DSCF2_scale.jpg,0
+DSCF3_scale.jpg,0
+DSCF4_scale.jpg,0
+DSCF5_scale.jpg,0
+DSCF6_scale.jpg,0
+DSCF7_scale.jpg,0
+DSCF8_scale.jpg,0
+DSCF9_scale.jpg,0
+DSCN2320_scale.jpg,0
+DSCN2321_scale.jpg,0
+DSCN2322_scale.jpg,0
+DSCN2323_scale.jpg,0
+DSCN2324_scale.jpg,0
+DSCN2325_scale.jpg,0
+DSCN2326_scale.jpg,0
+DSCN2327_scale.jpg,0
+DSCN2328_scale.jpg,0
+DSCN2329_scale.jpg,0
+DSCN41_scale.jpg,0
+DSCN43_scale.jpg,0
+DSCN44_scale.jpg,0
+DSCN45_scale.jpg,0
+DSCN46_scale.jpg,0
+DSCN47_scale.jpg,0
+DSCN48_scale.jpg,0
+DSCN49_scale.jpg,0
+DSCN50_scale.jpg,0
+IMG_32_scale.jpg,0
+nikon_7_scale.jpg,0
+P1000213_scale.jpg,0
+P1000231_scale.jpg,0
+P1000293_scale.jpg,0
+P1000318_scale.jpg,0
+P1000472_scale.jpg,0
+P1000528_scale.jpg,0
+P1000553_scale.jpg,0
+sony_61_scale.jpg,0
+sony_63_scale.jpg,0
+sony_64_scale.jpg,0
+sony_65_scale.jpg,0
+sony_66_scale.jpg,0
+sony_67_scale.jpg,0
+sony_68_scale.jpg,0
+sony_69_scale.jpg,0
+sony_70_scale.jpg,0
+sony_71_scale.jpg,0
+sony_72_scale.jpg,0

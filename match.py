@@ -1,3 +1,5 @@
+from find_obj import filter_matches, explore_match
+
 bf = cv2.BFMatcher(cv2.NORM_HAMMING)#, crossCheck=True)
 
 matches = bf.knnMatch(des1, trainDescriptors = des2, k = 2)

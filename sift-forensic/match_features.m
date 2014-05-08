@@ -101,11 +101,11 @@ else
             end
             for k = 2 : j-1
                 match(i) = indx(k); 
-                %if pdist([loc1(i,1) loc1(i,2); loc1(match(i),1) loc1(match(i),2)]) >10  
-                %    p1 = [p1 [loc1(i,2); loc1(i,1); 1]];
-                %    p2 = [p2 [loc1(match(i),2); loc1(match(i),1); 1]];
+                if pdist([loc1(i,1) loc1(i,2); loc1(match(i),1) loc1(match(i),2)]) >10  
+                    p1 = [p1 [loc1(i,2); loc1(i,1); 1]];
+                    p2 = [p2 [loc1(match(i),2); loc1(match(i),1); 1]];
                     num=num+1;
-                %end
+                end
             end
         end
     end

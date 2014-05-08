@@ -84,6 +84,9 @@ else
             k=n_combination_cluster(i,1);
             j=n_combination_cluster(i,2);
 
+            z1 = p1[C == k]
+            z2 = p2[C == j]
+
             z1=[];
             z2=[];
             for r=1:1:size(p1,2)

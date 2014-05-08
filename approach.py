@@ -29,6 +29,10 @@ def appendimages(img1, img2):
 
     return np.hstack((temp1, temp2))
 
+def print_dmatch(m):
+    print('imgIdx\tqueryIdx\ttrainIdx\tdistance')
+    print(m.imgIdx, m.queryIdx, m.trainIdx, m.distance)
+
 # threshold used for g2NN test
 dr2 = 0.6
 
