@@ -34,7 +34,7 @@
     \begin{frame}
         \frametitle{Motivation}
         \begin{itemize}
-            \item All those feature methods, what is the best?
+            \item What is the feature that better perform?
             	\begin{itemize}
                     \item What is the best KeyPoint detector?
                     \item What is the best KeyPoint descriptor?
@@ -46,7 +46,7 @@
     \begin{frame}
         \frametitle{Methods}
         \begin{itemize} [<+->]
-            \item Source
+            \item Resource
                 \begin{itemize}
                     \item Python
                     \item Numpy
@@ -58,11 +58,28 @@
                     \item SIFT, SURF, STAR, ORB
                     \item BRIEF, BRISK, FREAK
                 \end{itemize}
-             \item Database
-                \begin{itemize}
-                    \item MICC-F220
-                \end{itemize}
+        \end{itemize}
+    \end{frame}
+    
+    \begin{frame}
+      \frametitle{Method}
+      \begin{itemize}
+            	\item Database - MICC-F220
+        		\begin{itemize}
+            		\item 220 images
+			\item 82 tampered
+			\item 83 original
+        		\end{itemize}
+	\end{itemize}
+    \end{frame}
 
+    
+     \begin{frame}
+      \frametitle{Related Work}
+        \begin{itemize}
+            	\item Features detection and matching
+		\item Clustering and Forgery Detection
+		\item Geometric Transformation Estimation
         \end{itemize}
     \end{frame}
 
@@ -75,63 +92,48 @@
     \end{frame}
 
     \begin{frame}
-        \frametitle{Crawl tweets from Twitter}
-        \begin{itemize}
-            \item Streaming API
-                \begin{itemize}
-                    \item New York city region
-                    \item Keywords related to crime
-                \end{itemize}
-        \end{itemize}
-    \end{frame}
-
-    \begin{frame}
-        \frametitle{Classification of tweets}
-        \begin{itemize}
-            \item<1-> Training Data
-                \begin{itemize}
-                    \item 14094 tweets manually labeled (5837 positives, 8257 negatives)
-                    \item Types of Crimes:
-                    \begin{itemize}
-                        \item Robbery, Shooting, Theft, Assault
-                        \item Burglary, Vandalism, Arson, Drug Possession
-                    \end{itemize}
-                \end{itemize}
-            \item<2-> Classifier of crime related Statistics
-                \begin{itemize}
-                    \item Precision: 0.98 (+/- 0.01)
-                    \item Recall: 0.98 (+/- 0.01)
-                    \item F1 Score: 0.98 (+/- 0.00)
-                \end{itemize}
-            \item<3-> Classifier of type of crimes Statistics
-                \begin{itemize}
-                    \item Precision: 0.92 (+/- 0.01)
-                    \item Recall: 0.93 (+/- 0.01) 
-                    \item F1 Score: 0.93 (+/- 0.01)
-                \end{itemize}
-        \end{itemize}
-    \end{frame}
-
-    \begin{frame}
-        \frametitle{Extract Location of Tweet's text}
+        \frametitle{Results}
         \begin{itemize}[<+->]
-            \item Preprocessing
-                \begin{itemize}
-                    \item Lowercase
-                    \item Remove punctuation
-                    \item Apply alias dictionary
-                \end{itemize}
-            \item Match street addresses (Begin of address)
-            \item Match state names (End of address)
+            \item Table of Results
+            \includegraphics[width=10cm]{results_tpr}
         \end{itemize}
     \end{frame}
     
     \begin{frame}
-        \frametitle{Web App Interface}
-        \url{http://morning-oasis-6740.herokuapp.com}
-        \centering
-        \includegraphics[width=12cm]{eagleeye_gui}
+        \frametitle{Results}
+        \begin{itemize}[<+->]
+            \item Table of Results
+            \includegraphics[width=10cm]{results_fpr}
+        \end{itemize}
     \end{frame}
+    
+    \begin{frame}
+        \frametitle{Results}
+        \begin{itemize}[<+->]
+            \item Table of Results
+            \includegraphics[width=10cm]{results_table}
+        \end{itemize}
+    \end{frame}
+    
+     \begin{frame}
+        \frametitle{Rerefences}
+        [1] Alahi, A., Ortiz, R., \& Vandergheynst, P. (2012, June). Freak: Fast retina keypoint. In Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on (pp. 510-517). IEEE.
+
+[2] Amerini, I., Ballan, L., Caldelli, R., Del Bimbo, A., \& Serra, G. (2011). A SIFT-based forensic method for copy?move attack detection and transformation recovery. Information Forensics and Security, IEEE
+Transactions on, 6(3), 1099-1110.
+
+[3] Bay, H., Tuytelaars, T., \& Van Gool, L. (2006). Surf: Speeded up robust features. In Computer Vision?ECCV 2006 (pp. 404-417). Springer Berlin Heidelberg.
+
+[4] Christlein, V., Riess, C., Jordan, J., \& Angelopoulou, E. (2012). An evaluation of popular copy-move forgery detection approaches. Information Forensics and Security, IEEE Transactions on, 7(6),
+1841-1854.
+
+[5] Lowe, D. G. (2004). Distinctive image features from scale-invariant keypoints.International journal of computer vision, 60(2), 91-110.
+
+[6] Rublee, E., Rabaud, V., Konolige, K., \& Bradski, G. (2011, November). ORB: an efficient alternative to SIFT or SURF. In Computer Vision (ICCV), 2011 IEEE International Conference on (pp. 2564-2571).
+IEEE.
+
+    \end{frame}
+  
     
     \begin{frame}
         \frametitle{Questions ?}

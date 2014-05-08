@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  8 MAY 2014 09:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  8 MAY 2014 12:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -961,65 +961,58 @@ Package pdftex.def Info: ./img/detected.png used on input line 44.
 File: ./img/process.png Graphic file (type png)
 
 <use ./img/process.png>
-Package pdftex.def Info: ./img/process.png used on input line 75.
+Package pdftex.def Info: ./img/process.png used on input line 92.
 (pdftex.def)             Requested size: 284.52756pt x 74.32436pt.
  [14
 
- <./img/process.png>] [15
+ <./img/process.png>]
+<./img/results_tpr.png, id=118, 604.2575pt x 365.365pt>
+File: ./img/results_tpr.png Graphic file (type png)
 
-] [16
+<use ./img/results_tpr.png>
+Package pdftex.def Info: ./img/results_tpr.png used on input line 100.
+(pdftex.def)             Requested size: 284.52756pt x 172.03934pt.
+ [15
 
-] [17
+ <./img/results_tpr.png>]
+<./img/results_fpr.png, id=125, 600.2425pt x 392.46625pt>
+File: ./img/results_fpr.png Graphic file (type png)
 
-] [18
+<use ./img/results_fpr.png>
+Package pdftex.def Info: ./img/results_fpr.png used on input line 108.
+(pdftex.def)             Requested size: 284.52756pt x 186.04013pt.
+ [16
 
-] [19
+ <./img/results_fpr.png>]
+<./img/results_table.png, id=132, 522.95375pt x 531.9875pt>
+File: ./img/results_table.png Graphic file (type png)
 
-]
-[20
+<use ./img/results_table.png>
+Package pdftex.def Info: ./img/results_table.png used on input line 116.
+(pdftex.def)             Requested size: 284.52756pt x 289.44446pt.
 
-] [21
-
-] [22
-
-] [23
-
-] [24
-
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 134.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 134.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<./img/eagleeye_gui.png, id=182, 1445.4pt x 903.375pt>
-File: ./img/eagleeye_gui.png Graphic file (type png)
-
-<use ./img/eagleeye_gui.png>
-Package pdftex.def Info: ./img/eagleeye_gui.png used on input line 134.
-(pdftex.def)             Requested size: 341.43306pt x 213.3959pt.
-
-Overfull \vbox (0.35866pt too high) detected at line 134
+Overfull \vbox (78.97388pt too high) detected at line 116
  []
 
-[25
+[17
 
- <./img/eagleeye_gui.png>]
-<./img/questions.jpg, id=191, 301.125pt x 401.5pt>
+ <./img/results_table.png>]
+Overfull \vbox (17.46701pt too high) detected at line 135
+ []
+
+[18
+
+] <./img/questions.jpg, id=145, 301.125pt x 401.5pt>
 File: ./img/questions.jpg Graphic file (type jpg)
- <use ./img/questions.jpg>
-Package pdftex.def Info: ./img/questions.jpg used on input line 140.
+
+<use ./img/questions.jpg>
+Package pdftex.def Info: ./img/questions.jpg used on input line 142.
 (pdftex.def)             Requested size: 192.06686pt x 256.0748pt.
 
-Overfull \vbox (27.00421pt too high) detected at line 140
+Overfull \vbox (27.00421pt too high) detected at line 142
  []
 
-[26
+[19
 
  <./img/questions.jpg>]
 \tf@nav=\write6
@@ -1031,11 +1024,11 @@ Overfull \vbox (27.00421pt too high) detected at line 140
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1043,28 +1036,23 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
  ) 
 Here is how much of TeX's memory you used:
- 16322 strings out of 493315
- 307480 string characters out of 6137904
- 382349 words of memory out of 5000000
- 19325 multiletter control sequences out of 15000+600000
- 11037 words of font info for 41 fonts, out of 8000000 for 9000
+ 16234 strings out of 493315
+ 305578 string characters out of 6137904
+ 379349 words of memory out of 5000000
+ 19270 multiletter control sequences out of 15000+600000
+ 5757 words of font info for 21 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,16n,58p,401b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation29} has been referenced but does not ex
-ist, replaced by a fixed one
-
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/
-local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on presentation.pdf (26 pages, 4268679 bytes).
+ 49i,16n,57p,401b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
+Output written on presentation.pdf (19 pages, 2392199 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
